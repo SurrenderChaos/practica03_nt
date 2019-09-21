@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Dashboard</div>
+                <div class="card-header">Practica 03 - Nuevas Técnicas de Programación </div>
 
                 <div class="card-body">
                     @if (session('status'))
@@ -14,10 +14,17 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    Los porcentajes son los siguientes
+
+                    
+                    
+                    
+                    
                 </div>
             </div>
         </div>
     </div>
 </div>
+
+
 @endsection
