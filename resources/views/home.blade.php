@@ -6,6 +6,7 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">Practica 03 - Nuevas Técnicas de Programación </div>
+                <div class="card-header">David Almachi </div>
 
                 <div class="card-body">
                     @if (session('status'))
